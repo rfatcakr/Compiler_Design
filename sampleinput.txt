@@ -1,0 +1,49 @@
+#include <stdio.h>
+
+void main(void)
+{
+	int a,b=3,d=f,Factorial=1;
+int v;
+	
+char str='d',str2;
+	int i;
+int MAX;
+scanf ("%d",&MAX);
+
+	for (i=1;i<=MAX;i++)
+	{
+a=-3;
+int y=-3,d=-2,c,e,v=3;
+scanf ("%d",&MAX);
+printf ("%d\n",Factorial);
+
+
+
+for (i=2;i<=3;i++){
+a=3;
+}
+
+if(a<=3){
+	r=2;
+}else if (a>3){
+	ahmet=2;
+	v=3;
+	if(a>3){
+		printf ("asd");	
+	}
+}
+
+	}
+printf ("%d\n",Factorial);
+a=multFunc(a,b);
+}
+
+int multFunc( int x, int y)
+{
+x= x*y;
+if(a>3){
+a=3;
+}
+
+return x;
+}
